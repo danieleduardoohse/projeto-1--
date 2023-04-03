@@ -4,7 +4,8 @@
 }
 
 body{
-    família de fontes: 'Poppins', sans-serif;
+   
+    font-family: 'Poppins', sans-serif;
 
 }
 .cabecalho {
@@ -57,7 +58,7 @@ font-size: 24px;
 
 .estudante-todos{
     display: grid;
-    grid-template-columns:;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 .rodape{
